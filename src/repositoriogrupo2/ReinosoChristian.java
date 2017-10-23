@@ -11,5 +11,8 @@ package repositoriogrupo2;
  */
 public class ReinosoChristian {
     //Hola soy Chris Paúl
+    public static void main(String[] args) {
+        System.out.println("Hola");
+    }
     
 }
